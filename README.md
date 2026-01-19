@@ -1,2 +1,2 @@
-# How-to-download-JDK-and-first-programe
+# JAVA INTERSHIP TASK
 Task 1
